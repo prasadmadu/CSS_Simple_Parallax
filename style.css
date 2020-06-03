@@ -3,13 +3,13 @@
   padding: 0;
 }
 .parallax1{
-  background-image: url(/1.jpg);
+  background-image: url(1.jpg);
 }
 .parallax2{
-  background-image: url(/2.jpg);
+  background-image: url(2.jpg);
 }
 .parallax3{
-  background-image: url(/3.jpg);
+  background-image: url(3.jpg);
 }
 .parallax1, .parallax2, .parallax3{
   position: relative;
